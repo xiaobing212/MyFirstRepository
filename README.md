@@ -1,4 +1,0 @@
-MyFirtstRepository
-==================
-
-test
